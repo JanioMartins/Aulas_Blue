@@ -1,0 +1,126 @@
+
+
+
+Nome do Jogo: 
+
+a História:
+===========================================================================================================
+- A rotina de um programador Jr em Home Office;
+(em Inicio de carreira, buscando se aprimorar na carreira)
+
+===========================================================================================================
+
+Financeiro:
+- Inicia dia 1 vaucher de R$ 100,00
+- Inicia o dia 2 com com R$ 0,00 + dia 1 - (os gastos do dia 1)
+(Sucessivamente)
+
+===========================================================================================================
+
+A Dispensa:
+- Inicia o dia 1 com {01} cafés; No valor de R$ 15,00.
+- Inicia o dia 1 com {01} almoço; No valor de R$ 28,00.
+- Inicia o dia 1 com {01} jantar; No valor de R$ 20,00.
+- Definido que no dia 3, não há treino, pois haverá compras no supermercado.
+          - Usar um range entre 40 e 45 minutos para ir fazer compras.
+            (Isso causará um atraso na chegada á aula)
+                - O atraso será descontado na média da nota do curso. 
+		e No curso, as notas serão definidas com outro Range.
+
+
+==============================================================================================================
+
+A rotina:
+Manhã [soma do tempo: 20 + 5 + 15 + 10 + 10 = 1 hora com possibilidade de atraso de 5 minutos.]
+01 - Acorda ás 7:00;
+02 - Toma Banho;
+     - MENOS 10 minutos.
+
+03 - Escovar os dentes;
+     - MENOS 05 minutos.
+
+04 - Prepara café ou compra café;
+     - preparar: range.
+     - Comprar: MENOS entre 15 e 20 minutos.
+          - Usar um range entre 15 e 20 minutos para o prdido chegar.
+                - O atraso será descontado em 1% do salário por minuto atrasado ou finalizar o preparo.
+
+
+
+05 - Toma café;
+     - MENOS 10 minutos.
+
+06 - Faz alongamento;
+     - MENOS 10 minutos.
+
+07 - Começa a trabalhar ás 8:00;
+
+================================================================================================================
+
+Tarde [soma do tempo: 15 + 20 + 5 + 20 = 1 hora com possibilidade de atraso de 5 minutos.]
+01 - Pausa para o almoço ás 12:00;
+02 - Fazer almoço ou comprar;
+     - preparar: MENOS 15 minutos.
+     - Comprar: MENOS 15 minutos.
+          - Usar um range entre 10 e 15 minutos para o pedido chegar ou finalizar o preparo.
+                - O atraso será descontado em 1% do salário por minuto atrasado ou finalizar o preparo.
+
+03 - Almoçar;
+     - MENOS 20 minutos.
+  
+04 - Escova os dentes;
+     - MENOS 05 minutos.
+
+05 - Descanso (para descontar 20 minutos do tempo);
+     - MENOS 20 minutos.
+
+06 - Começa a trabalhar ás 13:00;
+
+===================================================================================================================
+
+Noite
+01 - Encerra o trabalho ás 17:00;
+02 - Consulta o ganho diário.   (Soma ao saldo da conta o ganho diário menos os atrasos);
+     - MENOS 05 minutos.
+
+03 - Pratica exercícios;
+     - MENOS 40 minutos.
+     OBs.: "No dia 3, não treinar e ir ao supermercado."
+     Obs 2.: Comprar ingredientes para {tantos} cafés, No valor de R$ 15,00 cada;
+             Comprar ingredientes para {tantos} almoço, No valor de R$ 28,00 cada;
+             Comprar ingredientes para {tantos} jantar, No valor de R$ 20,00 cada;
+
+04 - toma banho;
+     - MENOS 10 minutos.
+
+05 - Faz o jantar ou compra o jantar;
+     - preparar: MENOS 15 minutos.
+     - Comprar: MENOS 10 minutos.
+          - Usar um range entre 10 e 15 minutos para o prdido chegar ou finalizar o preparo.
+                - O atraso será descontado em 1% do salário por minuto atrasado ou finalizar o preparo.
+
+06 - Descanso (para descontar 20 minutos do tempo);
+     - MENOS 20 minutos.
+
+======================================================================================================================
+
+
+01 - Começa a aula da Blue Edtech 19:00;
+
+02 - Encerra a aula as 23:00;
+
+03 - Consulta os gastos do dia;
+     - MENOS 05 minutos. (Soma ao saldo da conta o ganho diário menos os atrasos);
+
+=======================================================================================================================
+
+==== Consultar saldo em conta ======
+tudo o que é gastos
+tudo o que é ganhos
+
+### Possibilidade futura.
+Obs.: Criar uma dispensa com alimentos (Marmita por exemplo) 
+e gelol para tratar contusões decorrentes dos exercicios físicos.
+
+
+

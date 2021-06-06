@@ -1,0 +1,49 @@
+
+
+
+Calculadora de Danos
+
+Variável
+
+- Vida_________08
+
+- Dano_________00
+
+- Força________00
+
+
+Escolha um Inimigo
+
+- Godin
+
+- Orc
+
+- Feiticeiro
+
+
+
+Ataques 3x         Variável p/ cada
+
+- Desarmado_________2
+
+- Espada curta______5
+
+- Espada mágica_____10
+
+Calcular danos
+Resultado do ataque
+
+Show Message "Continua vivo ou Foi derrotado"
+
+Voltar
+
+Encerrar
+
+
+bfabri@blueedtech.com.br
+gpereira@blueedtech.com.br
+
+
+
+
+

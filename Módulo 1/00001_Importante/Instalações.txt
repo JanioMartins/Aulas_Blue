@@ -1,0 +1,9 @@
+Bluemers, para o fim de semana, vocês já podem adiantar a instalação das ferramentas que serão usadas a partir de semana que vem. Pra isso, pus professores estão indicando os seguintes tutoriais:
+
+Instalação do Python: https://www.youtube.com/watch?v=KeDLsBmi3JA
+Instalação do VsCode: https://www.youtube.com/watch?v=49K-Zxc8A7A
+Instalação do Git: https://www.youtube.com/watch?v=ONztz-yh4jY
+Configuração do vsCode para Python: https://www.youtube.com/watch?v=ZQ60SJDACuc
+Configuração do vsCode para o GitHub: https://www.youtube.com/watch?v=peGUkhXD3Vw
+
+Já venham como eles prontos pra voarem ainda mais! 🚀🚀🚀
