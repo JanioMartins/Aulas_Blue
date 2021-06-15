@@ -1,0 +1,58 @@
+.box_branco {
+    font:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    float: center;
+   }
+   
+.box_azul {
+    font:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 2px;
+    border-color: black;
+    width: 99.8%;
+    float: left;
+    background-color: blue;
+    color: white;
+    height: 53%;
+   }
+   
+.box_amarelo {
+    font:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    border-width: 2px;
+    border-color: black;    
+    border-radius: 10px;
+    background-color: yellow;
+    color: black;
+    width: 48%;
+    height: 95%;
+    float:left;
+    margin: 5px;
+   }
+
+.box_rosa {
+    font:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px;
+    background-color: magenta;
+    color: black;
+    width: 48%;
+    float: right;
+    margin: 7px;
+   }
+
+.tabela {
+    text-align: justify;
+    border: 1px;
+    border: black;
+    border-style: solid;
+    width: 50%;
+    margin: 5px;
+}

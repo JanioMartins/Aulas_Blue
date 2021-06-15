@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+ 
+<html> 
+    <head>
+        <title>BlueEdtech - Módulo 2</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="/static/estilos.css"/>
+    </head>
+
+<body>
+    <div class="box_branco">
+    <h1><b href= https://blueedtech.com.br>
+        <img src="{{imagem1}}" width="98">BlueEdtech</b></h1>
+
+    <div class="box_azul">
+        <div class= "box_azul"></div>
+        <p><b>Módulo 2 - Front-End</b></b></p>
+        <p><b>Web | Cloud | Database</b></p>
+            <div class="box_imagem2">
+            
+                <b>
+                <p>O aluno {{nome}} tem {{idade}} anos de idade e mora em {{cidade}}!!!</p>
+        
+                {% if maioridade%}
+                <p> O {{nome}} É MAIOR DE IDADE!</p>
+        
+                {% else %}
+                <p> O {{nome}} É MENOR DE IDADE!</p>
+        
+                {% endif %}
+
+                <img src="{{imagem2}}"></b></h1>
+        
+            </div>
+
+</body>
+
+</html>

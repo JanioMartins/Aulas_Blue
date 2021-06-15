@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="estilos.css"/>
+
+    <title>Formulário Blue</title>
+</head>
+<body>
+    <div class="div_principal">
+        <p>Exemplos Forms!</p>
+
+        <form class="elementos">
+
+            <div class="div_principal"><!--ChekBoxs para escolher as opções que serão preenchidas-->
+                <label for="sexo">Nome </label>
+                <input type="checkbox" name="Escolha uma Opção" value="Nome"/>
+                <label for="sexo">Data </label>
+                <input type="checkbox" name="Escolha uma Opção" value="Data"/>
+                <label for="sexo">E-mail </label>
+                <input type="checkbox" name="Escolha uma Opção" value="email"/>
+                <label for="sexo">Telefone </label>
+                <input type="checkbox" name="Escolha uma Opção" value="telefone"/>
+                <label for="sexo">Senha </label>
+                <input type="checkbox" name="Escolha uma Opção" value="Senha"/>
+            </div>
+
+            &nbsp;
+
+            <div><!--Digitar o nome-->
+                <label for="nome">Nome: </label>
+                <input type="text" id="nome" name="Digite aqui", placeholder="Digite o seu nome..."/>
+            </div>
+
+            &nbsp;
+
+            <div><!--Digitar o nome-->
+                <label for="nome">Cidade: </label>
+                <select id="cidade", name="cidade">
+                    <option disabled selected>Selecione... </option>
+                    <optgroup label="Sul">
+                        <option>Porto Alegre</option>
+                        <option>Florianóplis</option>
+                        <option>Maringá</option>
+                    </optgroup>
+                    <optgroup label="Suldeste">
+                        <option>São Paulo</option>
+                        <option>Rio de Janeiro</option>
+                        <option>Belo Horizonte</option>
+                    </optgroup>
+                    
+                    <optgroup label="Nordeste">
+                        <option>Salvador</option>
+                        <option>São Luís</option>
+                        <option>Recife</option>
+                    </optgroup>
+                    <optgroup label="Norte">
+                        <option>Manaus</option>
+                        <option>Belém</option>
+                        <option>Rio Branco</option>
+                    </optgroup>
+                    <optgroup label="Centro-Oeste">
+                        <option>Goiânia</option>
+                        <option>Campo Grande</option>
+                        <option>Dourados</option>
+                    </optgroup>
+                </select>
+            </div>
+
+            &nbsp;
+
+            <div>
+                <label for="data">Data: </label>
+                <input type="date" id="data" name="Data"/>
+            </div>
+
+            &nbsp;
+
+            <div>
+                <label for="email">E-mail: </label>
+                <input type="email" id="email" name="Digite o seu e-mail", placeholder="Digite o seu e-mail..."/>
+            </div>
+
+            &nbsp;
+
+            <div>
+                <p>Sexo:
+                    <label for="sexo">Mascuino </label>
+                    <input type="radio" id="sexo" name="Escolha uma opção 2" value="Masculino"/>
+                    <label for="sexo">Feminino </label>
+                    <input type="radio" id="sexo" name="Escolha uma opção 2" value="Feminino"/>
+                </p>
+            </div>
+
+            &nbsp;
+
+            <div>
+                <label for="telefone">Telefone: </label>
+                <input type="tel" id="telefone" name="Telefone", placeholder="Digite o seu telefone..."/>
+            </div>
+
+            &nbsp;
+
+            <div>
+                <label for="senha">Senha: </label>
+                <input type="password" id="senha" name="Senha", placeholder="Digite a sua senha..."/>
+            </div>
+
+            &nbsp;
+
+            <div class= "botton:hover"><!--Botão enviar cadastro-->
+                <input type="submit" name="Botão enviar", value="Enviar"></input>
+            </div>
+
+    </div>
+</body>
+</html>

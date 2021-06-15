@@ -1,0 +1,42 @@
+body{
+    font-family: 'Verdana', sans-serif;
+}
+
+.div-principal{
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px solid #878787;
+    border-radius: 20px;
+    background-color: #f8f8f8;
+}
+
+.linha-titulo{
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.div-interna-elementos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.legenda-imagem{
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    border-radius: 25px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}

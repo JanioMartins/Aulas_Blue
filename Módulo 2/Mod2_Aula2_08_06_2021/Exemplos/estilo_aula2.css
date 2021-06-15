@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(180, 11, 95);
+}
+
+a{
+    background-color: mediumseagreen;
+}
+
+.cabecalho{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: lightgreen;
+}
+
+#item{
+    color:mediumblue;
+    font-weight: bold;
+    background-color: mediumorchid;
+}
