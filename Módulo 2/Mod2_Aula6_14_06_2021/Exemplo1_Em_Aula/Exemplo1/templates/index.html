@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Jogo Blue</title>
+        <style>
+            body{
+                background-color: #eeeeee;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                margin: 0;
+                padding: 20px;
+            }
+            .div-principal {
+                background: white;
+                border-bottom: 5px solid #3359ec;
+                border-top: 5px solid #3359ec;
+                border-radius: 5px;
+                box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+                margin: 0 auto;
+                padding: 20px 0;
+                text-align: center;
+                width: 500px;
+            }
+            .div-principal .div-form{
+                padding: 10px;
+            }
+            .div-principal .botao_enviar,
+            .div-principal .jogar_nov {
+                background-color: #3359ec;
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                border-radius: 10px;
+            }
+            .div-principal .div-escolha {
+                color: #3359ec;
+                font-size: 18px;
+            }
+
+            .div-principal .div_escolha-imagem {
+                padding-top: 20px;
+                padding-bottom: 15px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="div-principal">
+
+            {% if not criatura %}
+
+            <div class="div-form">
+                <img src="static/logo-blue-croped.gif" width="200">
+            </div>
+            <form method="POST">
+                <div class="div-form">
+                    <label for="nome">Digite o seu nome: </label><input type="text" name="nome" id="nome" placeholder="Digite seu nome...">
+                </div>
+                <div class="div-form">
+                    <label for="sobrenome">Digite o seu sobrenome: </label><input type="text" name="sobrenome" id="sobrenome" placeholder="Digite seu sobrenome...">
+                </div>
+                <div class="div-form">
+                    <input type="radio" name="criatura" id="criatura1" value="elfo" checked><label for="criatura1">Elfo</label>
+                    <input type="radio" name="criatura" id="criatura2" value="orc" ><label for="criatura2">Orc</label>
+                    <input type="radio" name="criatura" id="criatura3" value="hobbit" ><label for="criatura3">Hobbit</label>
+                </div>
+                <div class="div-form">
+                    <input type="submit" value="Jogar!" class="botao_enviar">                    
+                </div>
+            </form>
+
+            {% else %}
+
+            <div class="div-escolha">
+                {{ nome }} {{ sobrenome }}, você é um <b>{{ criatura }}</b>
+            </div>
+
+            <div class="div-form">
+                <img src="{{ imagem }}" width="100%" class="div_escolha-imagem">
+            </div>
+
+            <div class="div-form">
+                <a href="/" class="jogar_nov">Jogar novamente!</a>
+            </div>
+
+            {% endif %}
+            
+        </div>
+    </body>
+</html>

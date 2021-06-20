@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div_principal{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid #878787;
+    border-radius: 25px;
+    background-color: #f8f8f8;
+}
+
+.linha_titulo_principal{
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.ajuste_elementos{
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    flex-direction: row;
+    cursor: pointer;
+}
+
+.legendas_imagens{
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover{
+    display: inline-block;
+    border-radius: 25px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}

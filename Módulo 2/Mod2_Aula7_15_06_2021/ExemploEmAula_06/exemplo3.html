@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="botao" class="xclass">Botão</button>
+    <script type="text/javascript" src="exemplo3.js"></script> <!-- CHAMANDO CÓDIGO JS EXTERNO -->
+    <!--
+        COMENTANDO CÓDIGO DO JS INTERNO
+        
+        <script type="text/javascript">
+        //const elemento_botao = document.getElementById('botao');
+        const elemento_botao = document.querySelector('#botao')
+        
+        function botaoFoiClicado(){
+            alert("O botao foi clicado!")
+            window.location.href = "http://www.google.com";
+        }
+
+        elemento_botao.addEventListener("click", botaoFoiClicado)
+        console.log("Evento de clique adicionado ao botão!") // F12
+        elemento_botao.innerText = "Clique aqui"
+        console.log("Nome do botão alterado!")
+
+        function removeEvento(){
+            elemento_botao.removeEventListener("click", botaoFoiClicado)
+            elemento_botao.innerText = "Nem adianta clicar"
+            elemento_botao.setAttribute('disabled', 'disabled')
+            console.log("Evento de clique removido do botão!") // F12
+        }
+
+        setTimeout(removeEvento, 5000)
+
+    </script>-->
+</body>
+</html>

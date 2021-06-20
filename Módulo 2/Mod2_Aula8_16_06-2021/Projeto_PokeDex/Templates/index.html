@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokeDex Bluemer</title>
+</head>
+<body>
+    <div class="bloco">
+        <img src="Mod2_Aula8_16_06_2021/Projeto_PokeDex/estilos/logo-blue-croped.gif", width="200" alt="Logo Blue Edtech"></img>
+    </div>
+
+    <div class="lista_pokemons">
+        {% for pokemon in pokemons %}
+
+            <div class="card_pokemon" data-nome="{{ pokemon.nome }}">
+                <div class="imagem_pokemon">
+                    <img src="{{ caminho_base }}/{{ pokemon.numero }}.png" alt="Imagem do Pokemon" />
+                </div>
+                <div class="nome_pokemon">
+                    <b>{{ pokemon.nome }}</b>
+                </div>
+            </div>
+        
+        {% endfor %}
+    </div>
+
+</body>
+</html>
