@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo da Blue - HTML, CSS, JS, Python e SQL</title>
+    <link rel="stylesheet" href="/static/estilo.css" />
+</head>
+<body>
+    {% include 'header.html' %}
+    
+    {% if sucesso %}
+
+    <div class="bloco removido">
+        <p>
+            Registro removido com sucesso!
+        </p>
+    </div>
+
+    <div class="bloco">
+        <a href="/read" class="botao">Visualizar todos os registros</a>
+    </div>
+
+    {% elif registro %}
+
+    <div class="bloco">
+        <h2> Remover registro <span class="novo_id">{{ registro.id }}</span> </h2>
+    </div>
+
+    <div class="bloco">
+        <p class="certeza">
+            Tem certeza que deseja remover o registro <span class="novo_id">{{ registro.nome }}</span> ?
+            <br />
+            <a href="/delete/{{ registro.id }}/confirmed" class="botao">Remover</a>
+            <a href="/read" class="botao">Cancelar</a>
+        </p>
+    </div>
+
+    {% else %}
+
+    <div class="bloco removido">
+        <p>
+            NENHUM REGISTRO ENCONTRADO! <br /><br /> VALOR INVÁLIDO DE ID!
+        </p>
+    </div>
+
+    <div class="bloco">
+        <a href="/read" class="botao">Visualizar todos os registros</a>
+    </div>
+
+    {% endif %}
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo da Blue - HTML, CSS, JS, Python e SQL</title>
+    <link rel="stylesheet" href="/static/estilo.css" />
+</head>
+<body>
+    {% include 'header.html' %}
+    
+    <div class="bloco">
+        <form method="POST">
+
+            <div class="bloco form_input">
+                <input type="text" id="pesquisa" name="pesquisa" placeholder="Nome do filme" autocomplete="off">
+            </div>
+
+            <div class="bloco form_input">
+                <input type="submit" class="botao" value="Pesquisar">
+            </div>
+
+        </form>
+    </div>
+
+    <div class="bloco">
+        <h2>Visualizar</h2>
+    </div>
+    
+    <div class="bloco">
+        <table class="tabela">
+
+            {% for buscar in nome %}
+
+            <tr>
+                <td>{{ filme ["id"] }}</td>
+                <td>{{ filme ["nome"] }}</td>
+                <td>{{ filme['imagem_url'] }}</td>
+                <td><a href="/read/{{ registro['id'] }}" class="botao">Visualizar</a></td>
+            </tr>
+
+            {% endfor %}
+        </table>
+    </div>
+</body>
+</html>
