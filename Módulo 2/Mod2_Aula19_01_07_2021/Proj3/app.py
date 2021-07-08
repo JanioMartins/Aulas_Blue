@@ -37,6 +37,11 @@ class Filmes(db.Model):
         # SELECT * FROM filmes WHERE id = X, onde o X é o valor do id na coluna id da tabela filmes
         return Filmes.query.get(id_registro)
 
+    @staticmethod
+    def read_buscar(pesquisa):
+        pesquisa = Filmes.query.get(Filmes.nome)
+        return Filmes.query.get(pesquisa)
+
     def save(self): # função que salva as novas informações no banco de dados
         db.session.add(self) # adiciona o novo registro através da session ao DB
         db.session.commit() # realiza o commit da session do DB
@@ -78,8 +83,8 @@ def create():
 
 @app.route("/read_buscar", methods=('GET', 'POST'))
 def read_buscar():
-
-    return render_template("read_buscar.html")
+    pesquisa = request.query_string(Filmes.nome)
+    return render_template("read_buscar.html", pesquisa=pesquisa)
 
 if (__name__ == "__main__"):
     app.run(debug=True)

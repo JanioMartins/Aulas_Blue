@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Bluemmers</title>
+    <link rel="stylesheet" href="/static/estilo.css" />
+</head>
+<body>
+       {% include 'header.html'%}
+
+    <div class="bloco">
+        <h1>A Bluemmers Library possui um acervo de livros com os melhores </br>
+            Títulos sobre tecnologia já lançados, além de disponiblizar um link para os </br>
+            melhores sites para compras.</br>
+            Encontre o título de sua preferência ou ajude-nos dando a sua colaboração </br>
+            cadastrando um título não encontrado em nosso acervo.</br>
+        </h1>
+    </div>
+    
+    <div class="bloco">
+        <a class="botao" href="/create">Cadastrar</a>
+    </div>
+
+    
+    <section class="menu">
+        {% for registro in registros %}
+      
+        <div>
+          <img src="{{registro['imagem_url']}}" alt="{{registro['titulo']}}" width="150" height="200"> 
+          <p class="nomes">{{registro["titulo"]}}</p> 
+        </div>
+         
+        {% endfor %}
+    </section>
+
+</body>
+</html>

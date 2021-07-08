@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo da Blue - HTML, CSS, JS, Python e SQL</title>
+    <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+    {% include 'header.html' %}
+    
+    {% if not sucesso %}
+
+      <div class="box">
+        <form class="form" method="POST">
+            <fieldset>
+                <legend><b>Edite o registro {{ registro.id }}!</b></legend>
+            <div class="bloco_form_input">
+                <label for="nome">Título: </label>
+                <input type="text" id="titulo" name="titulo" class="inputUser" value="{{ registro.titulo }}">
+            </div>
+
+            <div class="bloco_form_input">
+                <label for="imagem_url">URL da imagem: </label>
+                <input type="text" id="imagem_url" name="imagem_url" class="inputUser" value="{{ registro.imagem_url }}">
+            </div>
+            <div class="bloco_form_input">
+                <label for="editora">Editora: </label>
+                <input type="text" id="editora" name="editora" class="inputUser" value="{{ registro.editora }}">
+            </div>
+            <div class="bloco_form_input">
+                <label for="autor">Autor: </label>
+                <input type="text" id="autor" name="autor" class="inputUser" value="{{ registro.autor}}">
+            </div>
+            <div class="bloco_form_input">
+                <label for="imagem_url">Número de páginas: </label>
+                <input type="text" id="numero_paginas" name="numero_paginas" class="inputUser" value="{{ registro.numero_paginas}}">
+            </div>
+            <div class="bloco_form_input">
+                <label for="menor_preço">Menor preço: </label>
+                <input type="text" id="menor_preco" name="menor_preço" class="inputUser" value="{{ registro.menor_preço}}">
+            </div>
+            <div class="bloco form_input">
+                <input type="submit" class="botao" value="Enviar">
+            </div>
+
+            <div class="bloco">
+                <a href="/read" class="botao">Voltar</a>
+            </div>
+            
+        </form>
+    </fieldset>
+    </div>
+
+    {% else %}
+
+    <div class="content-table">
+        <p class="title-table">
+            Registro editado com sucesso!
+        </p>
+    </div>
+
+    <div class="title-table">
+        <a href="/read/{{ registro.id }}" class="botao">Visualizar atualização</a>
+    </div>
+
+    {% endif %}
+
+</body>
+</html>

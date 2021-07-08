@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{registro.titulo}}</title>
+    <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+    {% include 'header.html' %}
+
+  <div class="content-table title-table">  
+    <div>
+        <h2>{{ registro.titulo }}</h2>
+    </div>
+
+    <div>
+        <img src="{{ registro.imagem_url }}" alt="{{ registro.nome }}" id="imagemSingle" width="200" height="250" />
+    </div>
+    <div>
+        <span>{{registro.autor}}</span>
+    </div>
+    <div>
+        <span>Editora: {{registro.editora}}</span>
+    </div>
+    <div>
+        <span>Número de páginas: {{registro.numero_paginas}}</span>
+    </div>
+    <div class="botao">
+        <a href="{{registro.menor_preço}}" target="blank">Clique aqui pra comprar ao menor preço</a>
+    </div>
+
+
+    <div>
+        <a href="/read" class="botao">Voltar</a>
+    </div>
+  </div>
+</body>
+</html>

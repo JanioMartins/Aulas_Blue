@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Bluemmers</title>
+    <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+       {% include 'header.html'%}
+
+       <div class="content-table title-table">
+        <h2>A Bluemmers Library possui um acervo de livros com os melhores </br>
+            Títulos sobre tecnologia já lançados, além de disponiblizar links dos </br>
+            melhores sites para adquiri-los.</br>
+            <br>
+            Encontre o título de sua preferência ou ajude-nos dando a sua colaboração </br>
+            cadastrando um título não encontrado em nosso acervo.</br>
+        </h2>
+    </div>
+    
+    
+       <div>
+        <h1>Bluemmers Library</br></h1>
+       </div>
+
+
+
+
+    <section class="flex">
+        {% for registro in registros %}
+      
+        <div class="content-table" id="livros">
+            <br><a href="/read/{{registro.id}}" class="title-table" >  <img src="{{registro['imagem_url']}}" alt="{{registro['titulo']}}" width="150" height="200"> </a></br>
+            <br><p class="title-table">{{registro["titulo"]}}</p></br>
+        </div>
+        
+        
+        
+        {% endfor %}
+    </section>
+</body>
+
+<footer class="content-table title-table">
+<img src="https://pbs.twimg.com/profile_images/1356715924573876231/9bC9tbCB.jpg" alt="BlueEdtech" width="60" height="60">
+</footer>
+</html>

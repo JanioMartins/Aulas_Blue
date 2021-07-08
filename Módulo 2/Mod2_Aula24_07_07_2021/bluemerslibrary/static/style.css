@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body,
+ul,
+li,
+p,
+a
+{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 1.2rem;
+  font-family: Arial;
+}
+
+body {
+  margin-bottom: 100px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+img{
+    margin-top: 10px;
+}
+.header {
+  display: flex;
+  background: rgb(4,38, 63);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+
+}
+
+.menu {
+  display: flex;
+  
+}
+
+.menu li {
+  margin-left: 10px;
+}
+
+.menu li a {
+  display: block;
+  padding: 10px;
+}
+
+
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 800;
+} 
+
+
+.flex > div{
+  flex: 1 1 100px ;
+  margin: 0 20px;
+  border: none;
+
+}
+
+
+#texto-index{
+    font-family: 'Uchen';
+    font-size: medium;
+}
+
+.bloco{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+#livros{
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
+
+.box{
+color: white;
+position:absolute ;
+top: 50%;
+left: 50%;
+margin-top: 100px;
+transform: translate(-50%,-50%);
+background-color: rgba(0, 0, 0, 0.6);
+padding: 15px;
+border-radius: 15px;
+width: 20%;
+}
+fieldset{
+    border: 3px solid rgb(4,38, 63);
+}
+legend{
+    border: 1px solid rgb(4,38, 63);
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(4,38, 63);
+    border-radius: 8px;
+}
+.bloco_form_input{
+    position: relative;
+}
+.inputUser{
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    letter-spacing: 2px;
+}
+.inputUser:focus ~ .labelInput,
+.inputUser:valid ~ .labelInput{
+    top: -20px;
+    font-size: 12px;
+    color: dodgerblue;
+}
+
+* {
+    font-family: 'Uchen'; 
+  }
+  
+  .content-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+ 
+  .content-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .content-table th,
+  .content-table td {
+    padding: 12px 15px;
+  }
+  
+  .content-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  .content-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+  .content-table tbody tr:last-of-type {
+    border-bottom: 2px solid  rgb(4,38, 63);
+  }
+  
+  .content-table tbody tr.active-row {
+    font-weight: bold;
+    color:  rgb(4,38, 63);
+  }
+.title-table{
+  text-align: center;
+  font-family: "Open Sans"
+}
+
+.botao {
+    border-radius: 20px;
+    background-color: rgb(4,38, 63); 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  
+}
+
+.botao:hover {background-color: #0a47ca;} 
+
+.grid3  {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 10px;
+  }
+
+  #menor_preço{
+    background-color: rgb(4,38, 63); 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+  
+  }
+  #menor_preço:hover {background-color: #0a47ca;}
+
