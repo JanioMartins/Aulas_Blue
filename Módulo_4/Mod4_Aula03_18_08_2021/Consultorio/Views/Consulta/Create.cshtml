@@ -1,0 +1,35 @@
+﻿@model Consulta
+
+
+    @*<select>
+        <option value="1">Eurico</option>
+        <option value="2">Nivia</option>
+        <option value="3">Thales</option>
+    </select>*@
+
+<div class="row">
+    <form class="col-md-4" asp-action="Create">
+        <div class="form-group">
+            <label asp-for="DataHora" class="control-label" ></label>
+            <input asp-for="DataHora" class="form-control" />
+            <span class="text-danger" asp-validation-for="DataHora"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Descricao" class="control-label"></label>
+            <input asp-for="Descricao" class="form-control" />
+            <span class="text-danger" asp-validation-for="Descricao"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="pacienteId" class="control-label"></label>
+            <select asp-for="pacienteId" class="form-control" asp-items="ViewBag.listaDePacientes" >
+                <option value="">-- Selecione --</option>
+            </select>
+            <span class="text-danger" asp-validation-for="pacienteId"></span>
+        </div>
+        <div class="form-group">
+            <input class="btn btn-success" type="submit" value="Criar!" />
+            <a class="btn btn-info" asp-action="Index">Voltar!</a>
+        </div>
+    </form>
+</div>
+

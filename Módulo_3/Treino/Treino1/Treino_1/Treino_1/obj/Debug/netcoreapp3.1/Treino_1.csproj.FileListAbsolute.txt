@@ -1,0 +1,13 @@
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\bin\Debug\netcoreapp3.1\Treino_1.exe
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\bin\Debug\netcoreapp3.1\Treino_1.deps.json
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\bin\Debug\netcoreapp3.1\Treino_1.runtimeconfig.json
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\bin\Debug\netcoreapp3.1\Treino_1.runtimeconfig.dev.json
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\bin\Debug\netcoreapp3.1\Treino_1.dll
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\bin\Debug\netcoreapp3.1\Treino_1.pdb
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\obj\Debug\netcoreapp3.1\Treino_1.csproj.AssemblyReference.cache
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\obj\Debug\netcoreapp3.1\Treino_1.AssemblyInfoInputs.cache
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\obj\Debug\netcoreapp3.1\Treino_1.AssemblyInfo.cs
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\obj\Debug\netcoreapp3.1\Treino_1.csproj.CoreCompileInputs.cache
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\obj\Debug\netcoreapp3.1\Treino_1.dll
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\obj\Debug\netcoreapp3.1\Treino_1.pdb
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Treino\Treino1\Treino_1\Treino_1\obj\Debug\netcoreapp3.1\Treino_1.genruntimeconfig.cache

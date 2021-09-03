@@ -1,0 +1,44 @@
+﻿@model Linguagens
+
+@if (Model == null)
+{
+    <h1>LINGUAGEM NÃO EXISTE</h1>
+    <a asp-action="Index">Voltar</a>
+}
+else
+{
+
+<h1>Visualizando Linguagem @Model.Id</h1>
+
+
+<dl class="row">
+    <dt class="col-sm-3">@Html.DisplayNameFor(Model => Model.Id)</dt>
+    <dd class="col-sm-9">@Html.DisplayFor(Model => Model.Id)</dd>
+
+    <dt class="col-sm-3">@Html.DisplayNameFor(Model => Model.Logo)</dt>
+    <dd class="col-sm-9">@Html.DisplayFor(Model => Model.Logo)</dd>
+
+    <dt class="col-sm-3">@Html.DisplayNameFor(Model => Model.Lancamento)</dt>
+    <dd class="col-sm-9">@Html.DisplayFor(Model => Model.Lancamento)</dd>
+
+    <dt class="col-sm-3">@Html.DisplayNameFor(Model => Model.Desenvolvedor)</dt>
+    <dd class="col-sm-9">@Html.DisplayFor(Model => Model.Desenvolvedor)</dd>
+
+    <dt class="col-sm-3">@Html.DisplayNameFor(Model => Model.Aplicacao)</dt>
+    <dd class="col-sm-9">@Html.DisplayFor(Model => Model.Aplicacao)</dd>
+</dl>
+
+    @if (Model.Alunos.Count > 0)
+    {
+        <h3>Consultas: </h3>
+        @foreach (Alunos a in Model.Alunos)
+        {
+            <p><strong> @Html.DisplayFor(x => a.Nome)</strong> - @Html.DisplayFor(x => a.Nascimento)</p>
+        }
+    }
+
+
+
+    <a class="btn btn-info" asp-controller="Linguagens" asp-action="Index">Voltar!</a>
+
+}

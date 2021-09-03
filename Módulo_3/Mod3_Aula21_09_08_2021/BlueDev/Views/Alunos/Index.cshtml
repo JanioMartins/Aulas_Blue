@@ -1,0 +1,63 @@
+﻿@model List<Alunos>
+
+
+<h2>Lista de Alunos</h2>
+<a class="btn btn-info" asp-controller="Alunos" asp-action="Create">Cadastrar Alunos!</a>
+<br><br>
+
+
+@*<div class="row">
+    <div class="col">
+        @if (ViewBag.ordenar == true)
+        {
+            <a asp-action="Index" class="btn btn-outline-info">Remover ordenação!</a><br>
+        }
+        else
+        {
+            <a href="?ordenar=true" class="btn btn-info">Ordenar!</a><br>
+        }
+    </div>
+</div>
+<br>
+<br>*@
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.First().Id)</th>
+            @*<th>@Html.DisplayNameFor(Model => Model.First()alunos.linguagens.Nome)</th>*@
+            <th>@Html.DisplayNameFor(Model => Model.First().Nascimento)</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Alunos alunos
+            in Model) // { 1, p1, x} {2, p2, y} ...
+        {
+        <tr>
+            <td> @Html.DisplayFor(Model => alunos.Id) </td>
+            @*<td> @Html.DisplayFor(Model => alunos.linguagens.Nome) </td>*@
+            <td> @Html.DisplayFor(Model => alunos.Nascimento) </td>
+            <td>
+                <a asp-action="Read" asp-route-id="@alunos.Id">Visualizar</a> |
+                <a asp-action="Update" asp-route-id="@alunos.Nome">Atualizar</a> |
+                <a asp-action="Delete" asp-route-id="@alunos.linguagensId">Deletar</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+
+<form class="row">
+    <div class="col col-md-4">
+        <input type="text" class="form-control" name="busca" placeholder="Buscar..." />
+    </div>
+    <div class="col col-md-2">
+        <button type="submit" class="btn btn-info">Buscar!</button>
+    </div>
+</form>
+<br />
+
+<a class="btn btn-info" asp-controller="Home" asp-action="Index">Voltar!</a>

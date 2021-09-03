@@ -1,0 +1,35 @@
+﻿@model List<Consulta>
+
+
+<h2>Lista de consultas</h2>
+<a class="btn btn-link" asp-action="Create">Criar uma nova consulta!</a>
+
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.First().Id)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().DataHora)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().paciente.Nome)</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Consulta consulta in Model) // { 1, p1, x} {2, p2, y} ...
+        {
+            <tr>
+                <td> @Html.DisplayFor(Model => consulta.Id) </td>
+                <td> @Html.DisplayFor(Model => consulta.DataHora) </td>
+                <td> @Html.DisplayFor(Model => consulta.paciente.Nome) </td>
+                <td>
+                    <a asp-action="Read" asp-route-id="@consulta.Id">Visualizar</a> |
+                    <a asp-action="Update" asp-route-id="@consulta.Id">Atualizar</a> |
+                    <a asp-action="Delete" asp-route-id="@consulta.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

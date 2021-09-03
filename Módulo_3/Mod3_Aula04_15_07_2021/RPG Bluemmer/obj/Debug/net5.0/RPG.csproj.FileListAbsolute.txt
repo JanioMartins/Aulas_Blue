@@ -1,0 +1,5 @@
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula04_15_07_2021\RPG Bluemmer\obj\Debug\net5.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula04_15_07_2021\RPG Bluemmer\obj\Debug\net5.0\RPG.AssemblyInfoInputs.cache
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula04_15_07_2021\RPG Bluemmer\obj\Debug\net5.0\RPG.AssemblyInfo.cs
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula04_15_07_2021\RPG Bluemmer\obj\Debug\net5.0\RPG.csproj.CoreCompileInputs.cache
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula04_15_07_2021\RPG Bluemmer\obj\Debug\net5.0\RPG.csproj.AssemblyReference.cache

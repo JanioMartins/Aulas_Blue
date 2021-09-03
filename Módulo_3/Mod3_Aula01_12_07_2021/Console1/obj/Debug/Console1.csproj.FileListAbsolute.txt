@@ -1,0 +1,7 @@
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula01_12_07_2021\Console1\obj\Debug\Console1.csproj.CoreCompileInputs.cache
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula01_12_07_2021\Console1\bin\Debug\Console1.exe.config
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula01_12_07_2021\Console1\bin\Debug\Console1.exe
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula01_12_07_2021\Console1\bin\Debug\Console1.pdb
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula01_12_07_2021\Console1\obj\Debug\Console1.exe
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula01_12_07_2021\Console1\obj\Debug\Console1.pdb
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula01_12_07_2021\Console1\obj\Debug\Console1.csproj.AssemblyReference.cache

@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Linguagens>
+
+<div class="text-center">
+    <h1 class="display-4">Bem vindos à BlueDev!</h1>
+    <p><a href="https://blueedtech.com.br/">O maior catálogo de informações sobre diferentes Linguagens de Programação do Universo Blue!!!</a>.</p>
+    <img src="\Aulas_Blue\Módulo 3\Imagens\BlueEdtech2.jpg" alt="" />
+</div>
+
+
+<img src="/Imagens/BlueEdtech2.jpg" height="500" width="500"/>
+<form>
+    <input type="text" nome="nome" value="Busca" />
+    <button type="submit">Busca<</button>
+</form>
+
+@*<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.First().Id)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Logo)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nome)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Linguagens l in Model)
+        {
+            <tr>
+                <td> @Html.DisplayFor(Model => l.Id)</td>
+                <td><img src="@Html.DisplayFor(Model => l.Logo)" height="100" width="100" /></td>
+                <td> @Html.DisplayFor(Model => l.Nome)</td>
+            </tr>
+        }
+    </tbody>
+</table>*@

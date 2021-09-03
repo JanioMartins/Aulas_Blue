@@ -1,0 +1,309 @@
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\appsettings.Development.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\appsettings.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.exe
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.deps.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.dev.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\ref\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.AssemblyReference.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfoInputs.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfo.cs
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CoreCompileInputs.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cs
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.Manifest.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.xml
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\scopedcss\bundle\BlueFashionRetailer.styles.css
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.RazorTargetAssemblyInfo.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CopyComplete
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\ref\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 5\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.genruntimeconfig.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\appsettings.Development.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\appsettings.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.StaticWebAssets.xml
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.exe
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.deps.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.dev.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\ref\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Humanizer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.AssemblyReference.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfoInputs.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfo.cs
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CoreCompileInputs.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cs
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.Manifest.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.xml
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\scopedcss\bundle\BlueFashionRetailer.styles.css
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.RazorTargetAssemblyInfo.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CopyComplete
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\ref\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 6\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.genruntimeconfig.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\appsettings.Development.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\appsettings.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.StaticWebAssets.xml
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.exe
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.deps.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.dev.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\ref\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Humanizer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.AssemblyReference.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfoInputs.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfo.cs
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CoreCompileInputs.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cs
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.Manifest.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.xml
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\scopedcss\bundle\BlueFashionRetailer.styles.css
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.RazorTargetAssemblyInfo.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CopyComplete
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\ref\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 8\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.genruntimeconfig.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\appsettings.Development.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\appsettings.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.StaticWebAssets.xml
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.exe
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.deps.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.dev.json
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\ref\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Humanizer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.AssemblyReference.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfoInputs.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfo.cs
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CoreCompileInputs.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cs
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.Manifest.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.xml
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\scopedcss\bundle\BlueFashionRetailer.styles.css
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.RazorTargetAssemblyInfo.cache
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CopyComplete
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\ref\BlueFashionRetailer.dll
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.pdb
+C:\NICACIO\Blue\Aulas\Mod4 - BE\Projetos\Aula 9\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.genruntimeconfig.cache
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\appsettings.Development.json
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\appsettings.json
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.StaticWebAssets.xml
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.exe
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.deps.json
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.json
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.runtimeconfig.dev.json
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\ref\BlueFashionRetailer.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\BlueFashionRetailer.pdb
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Humanizer.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.AssemblyReference.cache
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfoInputs.cache
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.AssemblyInfo.cs
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CoreCompileInputs.cache
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cs
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.MvcApplicationPartsAssemblyInfo.cache
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.Manifest.cache
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\staticwebassets\BlueFashionRetailer.StaticWebAssets.xml
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\scopedcss\bundle\BlueFashionRetailer.styles.css
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.RazorTargetAssemblyInfo.cache
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.csproj.CopyComplete
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\ref\BlueFashionRetailer.dll
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.pdb
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\obj\Debug\net5.0\BlueFashionRetailer.genruntimeconfig.cache
+E:\Dev\Blue_Edtech\Aulas_Blue\Módulo_4\Mod4_Aula10_27_08_2021\BlueFashionRetailer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,0 +1,34 @@
+﻿@model List<Linguagens>
+
+<h2>Linguagens</h2>
+<a class="btn btn-link" asp-controller="Linguagens" asp-action="Create">Adicionar uma nova linguagem</a>
+
+<form>
+    <input type="text" nome="nome" value="Busca" />
+    <button type="submit">Busca<</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.First().Id)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Logo)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nome)</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Linguagens l in Model)
+        {
+            <tr>
+                <td> @Html.DisplayFor(Model => l.Id)</td>
+                <td><img src="@Html.DisplayFor(Model => l.Logo)" height="100" width="100" /></td>
+                <td> @Html.DisplayFor(Model => l.Nome)</td>
+                <td><a class="btn btn-link" asp-controller="Linguagens" asp-action="Read">Vizualizar</a></td>
+                <td><a class="btn btn-link" asp-controller="Linguagens" asp-action="Read">Alterar</a></td>
+                <td><a class="btn btn-link" asp-controller="Linguagens" asp-action="Read">Remover</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+

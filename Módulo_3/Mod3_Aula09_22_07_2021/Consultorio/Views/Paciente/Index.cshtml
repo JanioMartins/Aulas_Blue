@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Lista<Paciente>
+
+<h2>Lista de pacientes</h2>
+<a class="btn btn-link" asp-controller="Paciente" asp-action="Create">Criar um novo paciente!</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.First().Id)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nome)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nascimento)</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Paciente paciente in Model)
+        {
+        <tr>
+            <td> @Html.DisplayFor(Model => Model.Id)</td>
+            <td> @Html.DisplayFor(Model => Model.Nome)</td>
+            <td> @Html.DisplayFor(Model => Model.Nascimento)</td>
+        </tr>
+        }
+    </tbody>
+</table>

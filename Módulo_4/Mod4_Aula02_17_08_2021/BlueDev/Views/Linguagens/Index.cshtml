@@ -1,0 +1,77 @@
+﻿@model List<Linguagens>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+
+<h2>Lista de Linguagens</h2>
+<a class="btn btn-info" asp-controller="Linguagens" asp-action="Create">Cadastrar Linguagem!</a>
+<br>
+<br>
+
+
+<form class="row">
+    <div class="col col-md-4">
+        <input type="text" class="form-control" name="busca" placeholder="Buscar..." />
+    </div><br>
+    <div class="col col-md-2">
+        <button type="submit" class="btn btn-info">Buscar!</button>
+    </div>
+</form>
+<br>
+<br>
+
+<div class="row">
+    <div class="col">
+        @if (ViewBag.ordenar == true)
+        {
+            <a asp-action="Index" class="btn btn-outline-info">Remover ordenação!</a><br>
+        }
+        else
+        {
+            <a href="?ordenar=true" class="btn btn-info">Ordenar!</a><br>
+        }
+    </div>
+</div>
+<br>
+<br>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(Model => Model.First().Id)</th>
+                <th>@Html.DisplayNameFor(Model => Model.First().Nome)</th>
+                <th>@Html.DisplayNameFor(Model => Model.First().Logo)</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Linguagens linguagens in Model) // { 1, p1, x} {2, p2, y} ...
+            {
+                var classe = linguagens.Alunos.Count > 0 ? "text-info" : "";
+                string alunosQtde = linguagens.Alunos.Count > 0 ? $" - {linguagens.Alunos.Count}" : "";
+                <tr class="@classe">
+                    <td> @Html.DisplayFor(Model => linguagens.Id) </td>
+                    <td> @Html.DisplayFor(Model => linguagens.Nome) <span>@alunosQtde</span></td>
+                    <td> @Html.DisplayFor(Model => linguagens.Logo) </td>
+                    <td>
+                        <a asp-controller="Linguagens" asp-action="Read" asp-route-id="@linguagens.Id">Visualizar</a> |
+                        <a asp-controller="Linguagens" asp-action="Update" asp-route-id="@linguagens.Id">Atualizar</a> |
+                        <a asp-controller="Linguagens" asp-action="Delete" asp-route-id="@linguagens.Id">Deletar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <a asp-action="Create" class="btn btn-info">Nova Linguagem!</a>
+        }
+    </div>
+</div>
+<br>
+
+
+<a class="btn btn-info" asp-controller="Home" asp-action="Index">Voltar!</a>
+

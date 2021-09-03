@@ -1,0 +1,16 @@
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\bin\Debug\net5.0\Mod3_Aula2_Exercicio1.exe
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\bin\Debug\net5.0\Mod3_Aula2_Exercicio1.deps.json
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\bin\Debug\net5.0\Mod3_Aula2_Exercicio1.runtimeconfig.json
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\bin\Debug\net5.0\Mod3_Aula2_Exercicio1.runtimeconfig.dev.json
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\bin\Debug\net5.0\Mod3_Aula2_Exercicio1.dll
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\bin\Debug\net5.0\ref\Mod3_Aula2_Exercicio1.dll
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\bin\Debug\net5.0\Mod3_Aula2_Exercicio1.pdb
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\obj\Debug\net5.0\Mod3_Aula2_Exercicio1.csproj.AssemblyReference.cache
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\obj\Debug\net5.0\Mod3_Aula2_Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\obj\Debug\net5.0\Mod3_Aula2_Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\obj\Debug\net5.0\Mod3_Aula2_Exercicio1.AssemblyInfo.cs
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\obj\Debug\net5.0\Mod3_Aula2_Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\obj\Debug\net5.0\Mod3_Aula2_Exercicio1.dll
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\obj\Debug\net5.0\ref\Mod3_Aula2_Exercicio1.dll
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\obj\Debug\net5.0\Mod3_Aula2_Exercicio1.pdb
+C:\Users\Cadpe05\Google Drive (dev.jamads@gmail.com)\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula02_13_07_2021\Exercicios_Mod3_Aula2\Mod3_Aula2_Exercicio1\obj\Debug\net5.0\Mod3_Aula2_Exercicio1.genruntimeconfig.cache

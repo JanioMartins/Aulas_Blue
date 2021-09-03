@@ -1,0 +1,9 @@
+E:\Dev\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula14_29_07_2021\BlueDev\obj\Debug\net5.0\BlueDev.csproj.AssemblyReference.cache
+E:\Dev\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula14_29_07_2021\BlueDev\obj\Debug\net5.0\BlueDev.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula14_29_07_2021\BlueDev\obj\Debug\net5.0\BlueDev.AssemblyInfoInputs.cache
+E:\Dev\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula14_29_07_2021\BlueDev\obj\Debug\net5.0\BlueDev.AssemblyInfo.cs
+E:\Dev\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula14_29_07_2021\BlueDev\obj\Debug\net5.0\BlueDev.csproj.CoreCompileInputs.cache
+E:\Dev\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula14_29_07_2021\BlueDev\obj\Debug\net5.0\BlueDev.MvcApplicationPartsAssemblyInfo.cs
+E:\Dev\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula14_29_07_2021\BlueDev\obj\Debug\net5.0\BlueDev.MvcApplicationPartsAssemblyInfo.cache
+E:\Dev\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula14_29_07_2021\BlueDev\obj\Debug\net5.0\BlueDev.RazorAssemblyInfo.cache
+E:\Dev\Blue  Edtech\Aulas_Blue\Módulo 3\Mod3_Aula14_29_07_2021\BlueDev\obj\Debug\net5.0\BlueDev.RazorAssemblyInfo.cs

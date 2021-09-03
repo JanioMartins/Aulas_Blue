@@ -1,0 +1,43 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model List<Linguagens>
+
+<h2>Linguagens</h2>
+<a class="btn btn-link" asp-controller="Linguagens" asp-action="Create">Adicionar uma nova linguagem</a>
+
+<form>
+    <input type="text" nome="nome" value="Busca" />
+    <button type="submit">Busca<</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.First().Id)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Logo)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nome)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Aplicacao)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Lancamento)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Desenvolvedor)</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Linguagens l in Model)
+        {
+            <tr>
+                <td> @Html.DisplayFor(Model => l.Id)</td>
+                <td><img src="@Html.DisplayFor(Model => l.Logo)" height="100" width="100" /></td>
+                <td> @Html.DisplayFor(Model => l.Nome)</td>
+                <td> @Html.DisplayFor(Model => l.Aplicacao)</td>
+                <td> @Html.DisplayFor(Model => l.Lancamento)</td>
+                <td> @Html.DisplayFor(Model => l.Desenvolvedor)</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,67 @@
+﻿@model List<Paciente>
+
+
+<h2>Lista de pacientes</h2>
+    <a class="btn btn-info" asp-controller="Paciente" asp-action="Create">Cadastrar Paciente!</a>
+<br><br>
+
+
+<form class="row">
+    <div class="col col-md-4">
+        <input type="text" class="form-control" name="busca" placeholder="Buscar..." />
+    </div><br>
+    <div class="col col-md-2">
+        <button type="submit" class="btn btn-info">Buscar!</button>
+    </div>
+</form>
+<br>
+<br>
+
+<div class="row">
+    <div class="col">
+        @if (ViewBag.ordenar == true)
+        {
+            <a asp-action="Index" class="btn btn-outline-info">Remover ordenação!</a><br>
+        }
+        else
+        {
+            <a href="?ordenar=true" class="btn btn-info">Ordenar!</a><br>
+        }
+    </div>
+</div>
+<br>
+<br>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.First().Id)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nome)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nascimento)</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Paciente paciente in Model) // { 1, p1, x} {2, p2, y} ...
+        {
+            var classe = paciente.Consultas.Count > 0 ? "text-info" : "";
+            string consultaQtde = paciente.Consultas.Count > 0 ? $" - {paciente.Consultas.Count}" : "";
+            <tr class="@classe">
+                <td> @Html.DisplayFor(Model => paciente.Id) </td>
+                <td> @Html.DisplayFor(Model => paciente.Nome) <span>@consultaQtde</span></td>
+                <td> @Html.DisplayFor(Model => paciente.Nascimento) </td>
+                <td>
+                    <a asp-controller="Paciente" asp-action="Read" asp-route-id="@paciente.Id">Visualizar</a> |
+                    <a asp-controller="Paciente" asp-action="Update" asp-route-id="@paciente.Id">Atualizar</a> |
+                    <a asp-controller="Paciente" asp-action="Delete" asp-route-id="@paciente.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br>
+
+
+<a class="btn btn-info" asp-controller="Home" asp-action="Index">Voltar!</a>
+

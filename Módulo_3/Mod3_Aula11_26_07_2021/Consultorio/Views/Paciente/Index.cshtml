@@ -1,0 +1,31 @@
+﻿@model List<Paciente>
+
+
+<h2>Lista de pacientes</h2>
+<a class="btn btn-link" asp-controller="Paciente" asp-action="Create">Criar um novo paciente!</a>
+<table class="table">
+    <thead>
+        <tr>
+            @*<th>Id</th>
+            <th>Nome</th>
+            <th>Nascimento</th>*@
+            <th>@Html.DisplayNameFor(Model => Model.First().Id)</th> 
+            <th>@Html.DisplayNameFor(Model => Model.First().Nome)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nascimento)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Paciente paciente in Model)
+        {
+            <tr>
+                @*<td> @paciente.Id</td>
+                <td> @paciente.Nome</td>
+                <td> @paciente.Nascimento</td>*@
+                <td> @Html.DisplayFor(Model => paciente.Id) </td>
+                <td> @Html.DisplayFor(Model => paciente.Nome) </td>
+                <td> @Html.DisplayFor(Model => paciente.Nascimento) </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
